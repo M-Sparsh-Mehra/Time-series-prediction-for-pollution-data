@@ -43,13 +43,14 @@ date, aqi, co, no, no2, o3, so2, pm2_5, pm10, nh3
 ---
 
 ## 🧪 Future Work
--Address class imbalance using:
--SMOTE / RandomOverSampler
--Class-weighted loss
+- Address class imbalance using:
+- SMOTE / RandomOverSampler
+- Class-weighted loss
 
 ---
 
 📦 MLflow Run Summary
-mlflow_summary_baseline.csv
-Includes metrics, params, tags for every model run.
+
+- mlflow_summary_baseline.csv
+- Includes metrics, params, tags for every model run.
 ---
