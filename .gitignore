@@ -1,1 +1,4 @@
-.venv/.venv/
+.venv/
+mlruns/
+models/
+*.pkl

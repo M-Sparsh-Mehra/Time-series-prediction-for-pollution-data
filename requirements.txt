@@ -4,4 +4,6 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+xgboost
 Flask
+mlflow
